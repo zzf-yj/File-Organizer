@@ -1,0 +1,9 @@
+通过python实现整个代码，将杂乱的文件夹整理成7种分类。
+![image](https://github.com/user-attachments/assets/bcb4a312-dcab-41b8-8ba4-21d5ea88f1ba)
+整体的界面设计效果：
+![image](https://github.com/user-attachments/assets/f9ba99d5-194b-4785-8b28-58b16e743299)
+通过浏览找到需要整理的文件夹，点击开始整理就可以完成整理。
+![image](https://github.com/user-attachments/assets/7ee3f3be-43cb-4cc9-b1e8-cfa7a265ee26)
+在这个过程中，会执行重复文件删除，解压文件和压缩包有重复文件执行删除解压文件。
+![image](https://github.com/user-attachments/assets/d5110ea0-b59e-47f5-8553-6d98299f4599)
+完成解压之后的效果。
